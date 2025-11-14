@@ -233,7 +233,7 @@ header .layout-section-top-wrapper {
     padding-left: 30px;
 }
 
-.baner-wrapper p.baner-title {
+.baner-wrapper .baner-title {
     font-weight: 700;
     font-size: 42px;
     letter-spacing: 3px;
@@ -505,7 +505,7 @@ section.association-of-countries-and-logos {
         padding-left: 15px;
     }
 
-    .baner-wrapper p.baner-title {
+    .baner-wrapper .baner-title {
         font-size: 34px;
         line-height: 40px;
         width: 100%
